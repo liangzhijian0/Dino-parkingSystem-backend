@@ -5,5 +5,4 @@ notifications:
   email: false
 install:
   - chmod +x ./gradlew
-  - ./gradlew --info assemble
 script: true
